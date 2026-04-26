@@ -8,5 +8,6 @@ uvicorn app.main:app --reload --port 8000
 
 frontend: npm install
 npm run dev
-# App at http://localhost:3000
+
+(App at http://localhost:3000)
 (inside \frontend)
